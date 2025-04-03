@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 100px;
+  background-color: #f9f9f9;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+}
